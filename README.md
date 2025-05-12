@@ -1,1 +1,1 @@
-# Blog-Application--Django-
+# Blog_Application_Django
